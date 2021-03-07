@@ -1,0 +1,1 @@
+module.exports = require("/home/manish/Documents/GitHub/yuvansharma.github.io/src/utils/typography.ts")
