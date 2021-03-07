@@ -105,7 +105,7 @@ export default ({ data }: PageProps) => {
                 I am a junior at Gunn High. Some of the things I am interested in are astrophysics, robotics, languages, the web and science. I do work hard . Oh, and I am a Karate Black Belt.
               </p>
               <p>
-		We recently shifted from India. That was quite an experience: shifting countries in the middle of the school year and of course a raging world-wide pandemic. I wrote a blog about the whole experience. 
+		We recently shifted from India. That was quite an experience: shifting countries in the middle of the school year and of course a raging world-wide pandemic. I wrote a blog about the whole experience in case you wish to read. 
               </p>
               <hr />
               <h2>Latest Blog</h2>
