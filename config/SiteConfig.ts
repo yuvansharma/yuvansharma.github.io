@@ -28,7 +28,7 @@ export default {
   baseFontSize: '18px',
 
   // Social media
-  siteFBAppID: 'yuvan1sharma',
+  siteFBAppID: '',
 
   //
   Google_Tag_Manager_ID: 'GTM-XXXXXXX',

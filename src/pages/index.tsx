@@ -102,7 +102,10 @@ export default ({ data }: PageProps) => {
             <HomepageContent>
               <h2>About Me</h2>
               <p>
-                I work hard to be a good student. I am a Karate Black Belt.
+                I am a junior at Gunn High. Some of the things I am interested in are astrophysics, robotics, languages, the web and science. I do work hard . Oh, and I am a Karate Black Belt.
+              </p>
+              <p>
+		We recently shifted from India. That was quite an experience: shifting countries in the middle of the school year and of course a raging world-wide pandemic. I wrote a blog about the whole experience. 
               </p>
               <hr />
               <h2>Latest Blog</h2>
