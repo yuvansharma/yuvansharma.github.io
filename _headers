@@ -57,6 +57,15 @@
   Link: </component---src-templates-blog-tsx-0b0b52f8afc21444083a.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/2
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-tsx-0b0b52f8afc21444083a.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/2/page-data.json>; rel=preload; as=fetch; crossorigin
 /categories
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -93,6 +102,15 @@
   Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/3-d-printing/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/atdp
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/atdp/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/animation
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -102,6 +120,15 @@
   Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/animation/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/astronomy
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/astronomy/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/astrophysics
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -147,6 +174,15 @@
   Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/coronavirus/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/einstein-rosen-bridge
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/einstein-rosen-bridge/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/markov-chains
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -156,6 +192,24 @@
   Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/markov-chains/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/string-theory
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/string-theory/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/summer-program
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/summer-program/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/sundial
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -174,6 +228,15 @@
   Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/technology/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/uc-berkeley
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/uc-berkeley/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/ulirg
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -183,6 +246,15 @@
   Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/ulirg/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/wormholes
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/wormholes/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/23-apr-2020-a-3-d-printed-digital-sundial
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -201,6 +273,15 @@
   Link: </component---src-templates-post-tsx-c4116822cb31428c5acc.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/20-feb-2020-modelling-the-coronavirus-using-markov-chains/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/02-aug-2019-wormholes-fact-or-fiction
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-post-tsx-c4116822cb31428c5acc.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/02-aug-2019-wormholes-fact-or-fiction/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/01-aug-2019-scanning-wise-data-for-brown-dwarfs-and-ulir-gs
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -210,6 +291,15 @@
   Link: </component---src-templates-post-tsx-c4116822cb31428c5acc.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/01-aug-2019-scanning-wise-data-for-brown-dwarfs-and-ulir-gs/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/31-july-2019-review-of-summer-program-atdp
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-post-tsx-c4116822cb31428c5acc.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/31-july-2019-review-of-summer-program-atdp/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
