@@ -4,10 +4,20 @@
 <url> <loc>https://yuvan.co/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/categories/coding</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/3-d-printing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/animation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/astrophysics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/blender</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/brown-dwarfs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/calculations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/coronavirus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/markov-chains</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/sundial</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/ulirg</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/blog/23-apr-2020-a-3-d-printed-digital-sundial</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/blog/20-feb-2020-modelling-the-coronavirus-using-markov-chains</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/blog/01-aug-2019-scanning-wise-data-for-brown-dwarfs-and-ulir-gs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
