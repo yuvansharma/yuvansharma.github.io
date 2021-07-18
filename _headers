@@ -84,6 +84,15 @@
   Link: </component---src-templates-category-tsx-b76228b6fd8467ee9e1d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/categories/coding/page-data.json>; rel=preload; as=fetch; crossorigin
+/categories/politics
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-category-tsx-b76228b6fd8467ee9e1d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/categories/politics/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -174,6 +183,15 @@
   Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/coronavirus/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/democrats
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/democrats/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/einstein-rosen-bridge
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -192,6 +210,33 @@
   Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/markov-chains/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/polarization
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/polarization/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/politics
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/politics/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/republicans
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/republicans/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/string-theory
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
@@ -255,7 +300,7 @@
   Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/wormholes/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/17-july-2021-a-3-d-printed-digital-sundial
+/blog/10-july-2021-political-polarization-in-the-united-states
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
   Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
@@ -263,7 +308,7 @@
   Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
   Link: </component---src-templates-post-tsx-c4116822cb31428c5acc.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/17-july-2021-a-3-d-printed-digital-sundial/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/10-july-2021-political-polarization-in-the-united-states/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/23-apr-2020-a-3-d-printed-digital-sundial
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script

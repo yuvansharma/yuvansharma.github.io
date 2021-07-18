@@ -4,6 +4,7 @@
 <url> <loc>https://yuvan.co/blog/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/categories/coding</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/categories/politics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/3-d-printing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/atdp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -14,8 +15,12 @@
 <url> <loc>https://yuvan.co/tags/brown-dwarfs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/calculations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/coronavirus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/democrats</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/einstein-rosen-bridge</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/markov-chains</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/polarization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/politics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/tags/republicans</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/string-theory</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/summer-program</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/sundial</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -23,7 +28,7 @@
 <url> <loc>https://yuvan.co/tags/uc-berkeley</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/ulirg</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/tags/wormholes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yuvan.co/blog/17-july-2021-a-3-d-printed-digital-sundial</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yuvan.co/blog/10-july-2021-political-polarization-in-the-united-states</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/blog/23-apr-2020-a-3-d-printed-digital-sundial</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/blog/20-feb-2020-modelling-the-coronavirus-using-markov-chains</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yuvan.co/blog/02-aug-2019-wormholes-fact-or-fiction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
