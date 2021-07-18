@@ -255,6 +255,15 @@
   Link: </component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/wormholes/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/17-july-2021-a-3-d-printed-digital-sundial
+  Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
+  Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </app-9b6a24ea70adede820ab.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </102dd505d877350578a7e7497b0704b624b1bad0-f9059574bbebd111edc0.js>; rel=preload; as=script
+  Link: </component---src-templates-post-tsx-c4116822cb31428c5acc.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/17-july-2021-a-3-d-printed-digital-sundial/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/23-apr-2020-a-3-d-printed-digital-sundial
   Link: </webpack-runtime-591096bea0c96f38fb41.js>; rel=preload; as=script
   Link: </framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
